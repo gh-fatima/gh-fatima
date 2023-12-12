@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatemeh Ghofrani
-- 👀 I’m interested in explainablity of machine learning algorithms.
+- 👀 I’m interested in machine learning algorithms and computer vision.
 - 🌱 I’m currently working on the intersection of representation learning and model robustness.
 
 <!---
